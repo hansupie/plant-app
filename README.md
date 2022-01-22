@@ -1,3 +1,6 @@
+Project done for Tampere University course Principles of Programming Graphical User Interfaces.
+Check out plant-app-documentation for more info.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
